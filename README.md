@@ -1,5 +1,5 @@
-Create Apache Spark cluster in Azure HDInsight using Azure portal
-Prerequisites
+<h1>Create Apache Spark cluster in Azure HDInsight using Azure portal<h1>
+<h2>Prerequisites<h2>
 
 An Azure account with an active subscriptio
 Create an Apache Spark cluster in HDInsight
