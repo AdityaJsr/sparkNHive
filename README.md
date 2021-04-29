@@ -1,7 +1,7 @@
 <h1>Create Apache Spark cluster in Azure HDInsight using Azure portal<h1>
 <h2>Prerequisites<h2>
 
-An Azure account with an active subscriptio
+<p>An Azure account with an active subscriptio
 Create an Apache Spark cluster in HDInsight
 
 Sign in to the Azure portal.
@@ -22,7 +22,7 @@ Under Storage, provide the following values: Property : Description Primary stor
 Select Review + create to continue.
 
 Under Review + create, select Create. It takes about 20 minutes to create the cluster. The cluster must be created before you can proceed to the next session.
-
+<p>
 Reference :
 
 https://docs.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-jupyter-spark-sql-use-portal
